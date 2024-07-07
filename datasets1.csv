@@ -1,0 +1,139 @@
+Date,Item,Amount,Category,Time,day
+1/3/2023,chai,7,alone,7:00,Wednesday
+1/3/2023,chai,20,friend,10:00,Wednesday
+1/3/2023,juice,15,friend,13:00,Wednesday
+1/3/2023,rikshow,12,alone,14:00,Wednesday
+1/3/2023,coffee,12,alone,15:00,Wednesday
+1/3/2023,chai with snaks,25,alone,17:00,Wednesday
+1/3/2023,coldrink,10,alone,21:30,Wednesday
+1/3/2023,others,10,alone,12:00,Wednesday
+1/4/2023,chai,7,alone,7:00,Thursday
+1/4/2023,juice,15,friend,13:00,Thursday
+1/4/2023,rikshow,12,friend,14:00,Thursday
+1/4/2023,coffee,12,alone,15:00,Thursday
+1/4/2023,chai with snaks,25,alone,18:00,Thursday
+1/4/2023,chiness bhel,60,friend,20:00,Thursday
+1/5/2023,chai,7,alone,7:00,Friday
+1/5/2023,chai,15,friend,10:00,Friday
+1/5/2023,idli,40,friend,10:32,Friday
+1/5/2023,others,15,alone,12:00,Friday
+1/5/2023,chai with snaks,25,alone,18:00,Friday
+1/5/2023,choclate,15,friend,22:30,Friday
+1/6/2023,chai,7,alone,7:00,Saturday
+1/6/2023,chai,10,friend,10:00,Saturday
+1/6/2023,juice,15,alone,12:00,Saturday
+1/6/2023,rikshow,12,alone,12:30,Saturday
+1/6/2023,coffee,12,alone,15:30,Saturday
+1/6/2023,others,30,alone,12:00,Saturday
+1/6/2023,chai,10,alone,17:30,Saturday
+1/6/2023,ice cream,30,friend,21:30,Saturday
+1/7/2023,chai with snaks,30,alone,9:30,Sunday
+1/7/2023,others,35,alone,10:00,Sunday
+1/7/2023,coldrink,10,alone,15:00,Sunday
+1/7/2023,chai,7,alone,18:00,Sunday
+1/7/2023,shoe,500,alone,17:30,Sunday
+1/7/2023,faluda,50,friend,22:40,Sunday
+1/8/2023,chai,7,alone,7:00,Monday
+1/8/2023,juice,15,friend,12:00,Monday
+1/8/2023,coffee,12,alone,15:00,Monday
+1/8/2023,chass,17,friend,15:30,Monday
+1/8/2023,chai with snaks,20,alone,17:20,Monday
+1/9/2023,chai with snaks,25,alone,9:00,Tuesday
+1/9/2023,idli,45,friend,10:00,Tuesday
+1/9/2023,chai,7,friend,17:00,Tuesday
+1/9/2023,ice cream,35,friend,19:00,Tuesday
+1/9/2023,others,10,alone,12:00,Tuesday
+1/9/2023,pizza,100,friend,21:00,Tuesday
+1/9/2023,coldrink,10,alone,1.083333333,Tuesday
+1/9/2023,biryani,200,friend,23:30,Tuesday
+1/10/2023,chai,20,friend,7:00,Wednesday
+1/10/2023,juice,15,friend,10:00,Wednesday
+1/10/2023,wifi,350,alone,10:30,Wednesday
+1/10/2023,coffee,12,alone,14:00,Wednesday
+1/10/2023,chai with snaks,25,alone,18:00,Wednesday
+1/11/2023,chai with snaks,25,alone,9:00,Thursday
+1/11/2023,chai with snaks,20,alone,17:30,Thursday
+1/11/2023,others,15,alone,19:30,Thursday
+1/12/2023,chai with snaks,15,alone,9:00,Friday
+1/12/2023,others,5,alone,12:00,Friday
+1/12/2023,chai with snaks,20,alone,17:00,Friday
+1/12/2023,chai,7,friend,19:00,Friday
+1/13/2023,chai,7,alone,7:00,Saturday
+1/13/2023,juice,15,friend,11:00,Saturday
+1/13/2023,chai with snaks,35,alone,17:00,Saturday
+1/13/2023,others,20,alone,12:00,Saturday
+1/13/2023,chai,7,friend,19:00,Saturday
+1/13/2023,coldrink,20,friend,21:00,Saturday
+1/13/2023,chicken,50,friend,21:00,Saturday
+1/14/2023,chai with snaks,30,alone,9:00,Sunday
+1/14/2023,biryani,100,friend,14:00,Sunday
+1/14/2023,coldrink,20,friend,14:10,Sunday
+1/14/2023,chai,10,friend,18:00,Sunday
+1/14/2023,recharge,210,alone,12:00,Sunday
+1/14/2023,coldrink,10,friend,21:00,Sunday
+1/14/2023,others,10,,18:30,Sunday
+1/15/2023,chai,10,alone,7:00,Monday
+1/15/2023,petrol,70,friend,10:00,Monday
+1/15/2023,juice,25,friend,11:00,Monday
+1/15/2023,coffee,12,alone,17:00,Monday
+1/15/2023,others,30,friend,18:00,Monday
+1/16/2023,chai with snaks,30,alone,9:00,Tuesday
+1/16/2023,idli,20,friend,14:00,Tuesday
+1/16/2023,chai with snaks,20,alone,18:00,Tuesday
+1/16/2023,others,10,alone,18:00,Tuesday
+1/16/2023,samosa,14,friend,20:00,Tuesday
+1/17/2023,chai with snaks,25,alone,9:00,Wednesday
+1/17/2023,coffee,12,alone,14:30,Wednesday
+1/17/2023,chai with snaks,15,alone,18:00,Wednesday
+1/18/2023,chai with snaks,15,alone,9:00,Thursday
+1/18/2023,biryani,100,friend,13:00,Thursday
+1/18/2023,chai with snaks,15,alone,17:30,Thursday
+1/18/2023,chai,5,friend,19:00,Thursday
+1/19/2023,chai with snaks,25,alone,9:00,Friday
+1/19/2023,coffee,12,alone,15:00,Friday
+1/19/2023,chai with snaks,15,alone,18:00,Friday
+1/20/2023,chai with snaks,25,alone,9:00,Saturday
+1/20/2023,others,30,alone,9:30,Saturday
+1/21/2023,chai with snaks,30,alone,9:00,Sunday
+1/21/2023,chai with snaks,30,alone,18:00,Sunday
+1/21/2023,chicken,70,friend,21:00,Sunday
+1/22/2023,chai with snaks,15,alone,9:00,Monday
+1/22/2023,chai with snaks,35,alone,18:00,Monday
+1/22/2023,freanky,70,friend,19:00,Monday
+1/22/2023,chai,5,friend,19:30,Monday
+1/23/2023,chai with snaks,25,alone,9:00,Tuesday
+1/23/2023,chai with snaks,20,alone,17:30,Tuesday
+1/23/2023,coldrink,15,friend,21:30,Tuesday
+1/24/2023,chai with snaks,15,alone,9:00,Wednesday
+1/24/2023,juice,25,friend,12:00,Wednesday
+1/24/2023,others,30,alone,13:00,Wednesday
+1/24/2023,chai with snaks,15,alone,17:00,Wednesday
+1/25/2023,chai with snaks,30,alone,9:00,Thursday
+1/25/2023,chai with snaks,15,alone,17:30,Thursday
+1/25/2023,chai with snaks,25,alone,9:00,Thursday
+1/25/2023,samosa,15,friend,11:00,Thursday
+1/25/2023,coldrink,10,friend,18:00,Thursday
+1/26/2023,chai with snaks,15,alone,9:00,Friday
+1/26/2023,maggi,30,friend,13:00,Friday
+1/26/2023,chai with snaks,15,friend,17:30,Friday
+1/26/2023,coldrink,20,friend,21:30,Friday
+1/27/2023,chai with snaks,25,alone,9:00,Saturday
+1/27/2023,coffee,12,alone,15:00,Saturday
+1/27/2023,chai with snaks,30,alone,17:00,Saturday
+1/28/2023,chai with snaks,30,alone,9:00,Sunday
+1/28/2023,others,20,alone,12:00,Sunday
+1/28/2023,chai,15,friend,18:00,Sunday
+1/28/2023,chicken,60,friend,21:00,Sunday
+1/29/2023,chai with snaks,20,alone,9:00,Monday
+1/29/2023,chai,10,friend,11:00,Monday
+1/29/2023,juice,70,friend,15:00,Monday
+1/29/2023,rikshow,12,alone,13:00,Monday
+1/29/2023,biryani,180,friend,16:00,Monday
+1/29/2023,coldrink,20,friend,16:00,Monday
+1/29/2023,chai with snaks,15,alone,18:00,Monday
+1/30/2023,chai with snaks,45,alone,9:00,Tuesday
+1/30/2023,others,45,alone,15:00,Tuesday
+1/30/2023,chai with snaks,15,alone,18:00,Tuesday
+1/31/2023,chai with snaks,15,alone,9:00,Wednesday
+1/31/2023,samosa,20,alone,11:00,Wednesday
+1/31/2023,chai with snaks,15,alone,17:30,Wednesday
